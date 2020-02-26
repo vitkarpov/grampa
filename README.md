@@ -38,31 +38,31 @@ $ http http://127.0.0.1/users
   {
     "first_name": "Bret",
     "second_name": "Viktor",
-    "date": "19/09/1965",
+    "birth": "19/09/1965",
     "avatar": "http://127.0.0.1/img/200x200.jpg"
   },
   {
     "first_name": "Albert",
     "second_name": "Einstein",
-    "date": "01/01/2011",
+    "birth": "01/01/2011",
     "avatar": "http://127.0.0.1/img/200x200.jpg"
   },
   {
     "first_name": "David",
     "second_name": "Hilbert",
-    "date": "12/07/1981",
+    "birth": "12/07/1981",
     "avatar": "http://127.0.0.1/img/200x200.jpg"
   },
   {
     "first_name": "Alan",
     "second_name": "Turing",
-    "date": "11/02/1989",
+    "birth": "11/02/1989",
     "avatar": "http://127.0.0.1/img/200x200.jpg"
   },
   {
     "first_name": "Bjarne",
     "second_name": "Stroustrup",
-    "date": "08/04/1973",
+    "birth": "08/04/1973",
     "avatar": "http://127.0.0.1/img/200x200.jpg"
   }
 ]
